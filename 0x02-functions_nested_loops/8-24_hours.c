@@ -2,6 +2,7 @@
 
 /**
  * jack_bauer - prints every minute of the day of Jack Bauern - check the code
+ *
  * Return: ...
  */
 

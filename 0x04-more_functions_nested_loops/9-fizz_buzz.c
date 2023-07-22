@@ -1,9 +1,9 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - check the code
- * Prints the numbers 1 - 100 W/
+ * Discription:  Prints the numbers 1 - 100 W/
  * For multiples of 3 Fizz, For multiples of 5 Buzz
  * FizzBuzz for Multiples of both
  *
